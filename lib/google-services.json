@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044286296039",
+    "project_id": "converto-d588b",
+    "storage_bucket": "converto-d588b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044286296039:android:b8d270090309e6063f7742",
+        "android_client_info": {
+          "package_name": "converto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAARx4uXqPe7mtj5MJIsxC9epbgJnIhW0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
